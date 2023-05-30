@@ -1,3 +1,3 @@
 # password_Generator_py
 
-Python learning converted into tiny projects | Compilation
+Python learnings converted into tiny projects | Compilation
