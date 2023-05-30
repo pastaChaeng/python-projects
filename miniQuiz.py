@@ -1,5 +1,3 @@
-from tkinter.messagebox import YES
-
 
 print("Welcome to py mini quiz!")
 
